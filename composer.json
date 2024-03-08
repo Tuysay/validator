@@ -1,0 +1,26 @@
+{
+    "name": "tuysay/validator",
+    "description": "NO",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tuysay\\Validator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tuyasy",
+            "email": "misha.gapeev.04@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4 | ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Validator\\": "src/"
+        }
+    }
+}
